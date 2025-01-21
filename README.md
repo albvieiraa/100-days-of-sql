@@ -62,7 +62,7 @@ Sinta-se à vontade para:
 
 Caso tenha interesse em conversar sobre SQL, entre em contato comigo:
 - **Email**: [maryllianbackup@gmail.com](mailto:maryllianbackup@gmail.com)
-- **LinkedIn**: [Maryllian Vieira]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maryllian-vieira-dev/))
+- **LinkedIn**: [Maryllian Vieira]([https://www.linkedin.com/in/maryllian-vieira-dev/])
 
 ---
 

@@ -40,7 +40,7 @@ Cada dia contém:
 | Dia  | Tópico Estudado                          | Status  |
 |------|------------------------------------------|---------|
 | 01   | Criação de tabelas e consultas básicas   | ✅       |
-| 02   | Filtros e operadores                     |        |
+| 02   | Filtros e operadores                     | ✅       |
 | 03   | Funções de agregação                     |        |
 | ...  | ...                                      |      |
 

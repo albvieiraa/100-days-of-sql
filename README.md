@@ -41,9 +41,11 @@ Cada dia contém:
 |------|------------------------------------------|---------|
 | 01   | Criação de tabelas e consultas básicas   | ✅       |
 | 02   | Filtros e operadores                     | ✅       |
-| 03   | Funções de agregação                     |        |
-| ...  | ...                                      |      |
-
+| 03   | Funções de agregação                     | ✅       |
+| 04   | Ordenação e Limitação de Resultados      | ✅       |
+| 05   | Alteração de Estruturas e de Dados       | ✅       |
+| 06   | Exclusão de registros                    | ✅       |
+ 
 _Atualizado diariamente!_
 
 ## 🛠️ Ferramentas Utilizadas

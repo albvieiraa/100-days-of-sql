@@ -4,7 +4,6 @@
 
 - Aprender a modificar a estrutura de tabelas usando `ALTER TABLE`.
 - Atualizar registros existentes com `UPDATE`.
-- Excluir registros com `DELETE`.
 
 ---
 
